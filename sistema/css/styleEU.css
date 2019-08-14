@@ -1,0 +1,42 @@
+.data_delete{
+  text-align: : center;
+}
+
+.data_delete h2{
+  text-align: center;
+  font-size: : 12pt;
+}
+.data_delete p{
+  text-align: center;
+}
+
+.data_delete span{
+  text-align: center;
+  font-weight: bold;
+  color: #4f72d4;
+  font-size: 12pt;
+}
+.btn_cancel,.btn_aceptar{
+
+  width: 124px;
+  background: #e04b4b;
+  color: #FFF;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 15px;
+  margin: 15px auto;
+}
+
+.btn_cancel{
+  background: #5b8e55;
+}
+
+.data_delete form{
+    text-align: center;
+    background: initial;
+    margin: auto;
+    padding: 20px 50px;
+    border: 0;
+}
